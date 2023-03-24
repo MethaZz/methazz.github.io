@@ -5,7 +5,6 @@
     --button-border: #0000;
     --button-color-yt: #f00;
     --button-color-dc: #5865f2;
-    --button-color-ig: #f0f;
     --button-color-e: #fff;
     --button-hover-background: #202020;
     --background: #222;
@@ -72,12 +71,6 @@ button#btn_dc:hover {
     color: var(--button-color-dc);
     background: var(--button-hover-background);
     border-color: var(--button-color-dc);
-}
-
-button#btn_ig:hover {
-    color: var(--button-color-ig);
-    background: var(--button-hover-background);
-    border-color: var(--button-color-ig);
 }
 
 button#btn_e:hover {
